@@ -13,13 +13,9 @@ web/
   tests/
   vendor/
   public/
-  README.md
-  INSTALL.md
-  LICENSE.md
   CHANGELOG.md
-  COPYRIGHT.md
-  VERSION
   composer.json
+  VERSION
 .gitignore
 COPYRIGHT.md
 docker-compose.yml
