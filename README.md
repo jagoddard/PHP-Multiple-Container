@@ -5,6 +5,9 @@ PHP Project Skeleton (Multiple Container)
 cdn/
 data/
 docker/
+  cdn
+  db
+  web
 web/
   bin/
   config/
