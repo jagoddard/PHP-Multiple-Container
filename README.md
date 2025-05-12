@@ -9,10 +9,10 @@ web/
   bin/
   config/
   docs/
+  public/
   src/
   tests/
   vendor/
-  public/
   CHANGELOG.md
   composer.json
   VERSION
